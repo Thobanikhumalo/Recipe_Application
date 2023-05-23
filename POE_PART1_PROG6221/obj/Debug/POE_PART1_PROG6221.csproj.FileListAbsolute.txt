@@ -1,0 +1,16 @@
+C:\Users\msawe\source\repos\POE_PART1_PROG6221\obj\Debug\POE_PART1_PROG6221.csproj.AssemblyReference.cache
+C:\Users\msawe\source\repos\POE_PART1_PROG6221\obj\Debug\POE_PART1_PROG6221.csproj.SuggestedBindingRedirects.cache
+C:\Users\msawe\source\repos\POE_PART1_PROG6221\obj\Debug\POE_PART1_PROG6221.csproj.CoreCompileInputs.cache
+C:\Users\msawe\source\repos\POE_PART1_PROG6221\bin\Debug\POE_PART1_PROG6221.exe.config
+C:\Users\msawe\source\repos\POE_PART1_PROG6221\bin\Debug\POE_PART1_PROG6221.exe
+C:\Users\msawe\source\repos\POE_PART1_PROG6221\bin\Debug\POE_PART1_PROG6221.pdb
+C:\Users\msawe\source\repos\POE_PART1_PROG6221\obj\Debug\POE_PART1_PROG6221.exe
+C:\Users\msawe\source\repos\POE_PART1_PROG6221\obj\Debug\POE_PART1_PROG6221.pdb
+C:\Users\msawe\Desktop\PROG6221\POE_PART1_PROG6221\bin\Debug\POE_PART1_PROG6221.exe.config
+C:\Users\msawe\Desktop\PROG6221\POE_PART1_PROG6221\bin\Debug\POE_PART1_PROG6221.exe
+C:\Users\msawe\Desktop\PROG6221\POE_PART1_PROG6221\bin\Debug\POE_PART1_PROG6221.pdb
+C:\Users\msawe\Desktop\PROG6221\POE_PART1_PROG6221\obj\Debug\POE_PART1_PROG6221.csproj.AssemblyReference.cache
+C:\Users\msawe\Desktop\PROG6221\POE_PART1_PROG6221\obj\Debug\POE_PART1_PROG6221.csproj.SuggestedBindingRedirects.cache
+C:\Users\msawe\Desktop\PROG6221\POE_PART1_PROG6221\obj\Debug\POE_PART1_PROG6221.csproj.CoreCompileInputs.cache
+C:\Users\msawe\Desktop\PROG6221\POE_PART1_PROG6221\obj\Debug\POE_PART1_PROG6221.exe
+C:\Users\msawe\Desktop\PROG6221\POE_PART1_PROG6221\obj\Debug\POE_PART1_PROG6221.pdb
